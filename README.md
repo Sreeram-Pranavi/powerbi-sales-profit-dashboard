@@ -4,7 +4,7 @@ A comprehensive, interactive Power BI dashboard designed to provide end-to-end b
 
 ## 📁 Dashboard File
 
-> 🔗 https://github.com/Sreeram-Pranavi/powerbi-sales-profit-dashboard/blob/main/Power%20Sales%20Analysis.pbix
+🔗 https://github.com/Sreeram-Pranavi/powerbi-sales-profit-dashboard/blob/main/Power%20Sales%20Analysis.pbix
 
 ## Dashboard Modules
 
