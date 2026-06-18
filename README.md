@@ -2,6 +2,10 @@
 
 A comprehensive, interactive Power BI dashboard designed to provide end-to-end business intelligence across sales, products, time, and geography.
 
+## 📁 Dashboard File
+
+> 🔗 https://github.com/Sreeram-Pranavi/powerbi-sales-profit-dashboard/blob/main/Power%20Sales%20Analysis.pbix
+
 ## Dashboard Modules
 
 ### 1. Executive Sales & Profit Overview
